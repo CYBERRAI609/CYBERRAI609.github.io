@@ -3,7 +3,6 @@
 }
 body{
     background-color: white;
-    
 }
 .paragraph h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -82,8 +81,6 @@ body{
 }
 .body{
     background-color: lightgrey;
-    max-width:max-content
-    
     
 }
 .welcome h1{
