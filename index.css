@@ -83,6 +83,7 @@ body{
 }
 .body{
     background-color: lightgrey;
+    max-width: fit-content;
     
 }
 .welcome h1{
