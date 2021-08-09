@@ -2,9 +2,8 @@
     float:left
 }
 body{
-    background-image: url(image/bg.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: white;
+ 
 }
 .paragraph h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
