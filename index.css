@@ -51,11 +51,13 @@ body{
 }
 .updates img{
     padding-left: 300px;
+    size: 60px;
 }
 .updates h2{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
     padding-left: 200px;
+
 }
 .discord h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
