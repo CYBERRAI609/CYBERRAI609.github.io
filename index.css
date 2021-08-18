@@ -60,3 +60,19 @@
     font-family: 'Roboto Mono', monospace;
     font-size: 15px;
 }
+.discord h1 {
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 120px;
+
+}
+.discord img{
+    height: 100px;
+    width: 100px;
+    padding-left: 120px;
+}
+.discord h2{
+    padding-left: 50px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+}
