@@ -1,36 +1,36 @@
 @media screen and (min-width:360px) {
-  .top h1{
-    font-size: 40px;
+    .top h1{
+      font-size: 40px;
+    }
+    .welcome h1{
+      font-size: 40px;
+    }
+  }
+  body{
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
   }
   .welcome h1{
-    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 80px;
   }
-}
-body{
-  background-color: black;
-  padding: 0px;
-  margin: 0px;
-}
-.welcome h1{
-  font-family: 'Montserrat', sans-serif;
-  font-size: 80px;
-}
-.welcome h2{
-  font-family: 'Quicksand', sans-serif;
-  letter-spacing: 1px;
-}
-.top{
+  .welcome h2{
+    font-family: 'Quicksand', sans-serif;
+    letter-spacing: 1px;
+  }
+  .top{
+    padding-left: 40%;
+    background-color: coral;
+  }
+  .top h1{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+  }
+  .content{
   padding-left: 40%;
-  background-color: coral;
-}
-.top h1{
-  color: black;
-  font-family: 'Montserrat', sans-serif;
-  padding: 10px;
-}
-.content{
-padding-left: 40%;
-}
-.content h2{
-  color: white;
-}
+  }
+  .content h2{
+    color: white;
+  }
