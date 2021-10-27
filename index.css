@@ -1,11 +1,4 @@
-@media screen and (min-width:360px) {
-    .top h1{
-      font-size: 40px;
-    }
-    .welcome h1{
-      font-size: 40px;
-    }
-  }
+
   body{
     background-color: black;
     padding: 0px;
@@ -13,20 +6,21 @@
   }
   .welcome h1{
     font-family: 'Montserrat', sans-serif;
-    font-size: 80px;
+    font-size: 60px;
   }
   .welcome h2{
     font-family: 'Quicksand', sans-serif;
     letter-spacing: 1px;
   }
   .top{
-    padding-left: 40%;
-    background-color: coral;
+    
+    background-color:orange;
   }
   .top h1{
     color: black;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Rampart One', cursive;
     padding: 10px;
+    font-size: 70px;
   }
   .content{
   padding-left: 40%;
@@ -34,3 +28,13 @@
   .content h2{
     color: white;
   }
+  .bottom{
+    background-color:grey;
+    padding: 20px;
+  }
+ .bottom h1{
+   font-family: monospace;
+   color: black;
+   font-size: 30px;
+ }
+
