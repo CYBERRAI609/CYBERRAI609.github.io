@@ -1,0 +1,61 @@
+body{
+    background-color:  #040720;
+}
+.head h1{
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+.back h1{
+    background-color: white;
+    margin: 30px;
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+.credit{
+    background-color:crimson ;
+    border-radius: 20px;
+}
+.credit h1{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+}
+.credit h2{
+    color: black;
+    background-color: black;
+    padding-left: 100%;
+}
+.activity h1{
+    text-align: center;
+    color:black;
+    font-family: 'Nunito', sans-serif;
+
+}
+.activity{
+    background-color: whitesmoke;
+    margin: 10px;
+    border-radius: 10px;
+}
+.activity h2{
+    text-align: center;
+    color:black;
+    font-family: 'Nunito', sans-serif;
+}
+.shop {
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
+}
+.shop h2{
+    font-size: 30px;
+    font-family: 'Nunito', sans-serif;
+}
+.shop h1{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}

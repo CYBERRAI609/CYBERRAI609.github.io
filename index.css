@@ -1,38 +1,41 @@
 body{
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-image: url(untitled\ \(70\).png);
- }
-.arav h1{
-  font-size: 40px;
-  color: black;
-  text-align:center;
+  background-color: #040720;
+}
+.head h1{
+  font-family: 'Nunito', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+}
+.head h2{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  text-align: center;
+  color: white;
+  font-weight: lighter;
+}
+.login{
   background-color: white;
-  border-radius: 10px;
-  box-shadow: 3px 3px 5px black;
+  border-radius: 20px;
+  margin: 30px;
+  padding-bottom: 40px;
+}
+.arav h1{
   font-family: 'Montserrat', sans-serif;
-  position: absolute;
-  bottom: 140px;
-  left: 90px;
-  text-align:center;
-  padding: 10px 40px;
-  
-  
+  color: black;
+  text-align: center;
 }
 .avik h1{
-  font-size: 40px;
-  color: black;
-  text-align:center;
-  background-color: white;
-  border-radius: 10px;
-  box-shadow: 3px 3px 5px black;
   font-family: 'Montserrat', sans-serif;
-  position: absolute;
-  bottom: 40px ;
-  left: 100px;
-  text-align:center;
-  padding: 10px 40px;
-  
-  
-  
+  color: black;
+  text-align: center;
+}
+.hed h1{
+  font-family: 'Oswald', sans-serif;
+  padding-left: 10px;
+  font-size: 40px;
+}
+.line h1{
+  color: #040720;
 }
